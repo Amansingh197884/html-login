@@ -151,15 +151,23 @@ form input{
     .Login{
         color: black;
     }
-    @media only screen and (max-width: 600px){
+    /* @media only screen and (max-width: 600px){
         .main{
             
             
             /* display: block; */
-            display: inline-table;
+            /* display: inline-table; */
             /* flex-direction: column; */
-            margin-right: 650px;
+            /* margin-right: 650px; */
             /* margin-top: 501px; */
             /* background-color: rgba(127, 255, 212, 0.425); */
-        }
-    }
+            /* display: flex; */
+        /* } */
+    /* } */
+    /* @media only screen and(max-width:600px){ */
+        /* .container{ */
+            /* justify-content: center; */
+            /* align-items: center; */
+            /* display: flex; */
+        /* } */
+    /* } */ 
